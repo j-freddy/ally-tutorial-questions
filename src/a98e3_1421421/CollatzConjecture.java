@@ -2,7 +2,7 @@ package a98e3_1421421;
 
 import java.util.Scanner;
 
-public class CollatzConjecture {
+class CollatzConjecture {
   static int next(int x) {
     if(x % 2 == 0) {
       //Even

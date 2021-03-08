@@ -3,7 +3,7 @@ package a4c70_lottery_numbers;
 import java.util.ArrayList;
 import java.util.Random;
 
-public class LotteryNumbers {
+class LotteryNumbers {
   public static void main(String[] args) {
     Random random = new Random();
     final int MAX_NO = 49;

@@ -2,7 +2,7 @@ package af79b_perfect_palindromic_cubes;
 
 import java.util.Stack;
 
-public class PerfectPalindromicCubes {
+class PerfectPalindromicCubes {
   static String reverseString(String str) {
     Stack<Character> stack = new Stack<>();
     char[] str2 = str.toCharArray();
